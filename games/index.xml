@@ -1,27 +1,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games - Dandy Dino Studio</title>
-    <link>http://example.org/games/</link>
+    <link>https://dandydinostudio.github.io/games/</link>
     <description>Recent content in Games on Dandy Dino Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/games/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://dandydinostudio.github.io/games/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Joe&#39;s Wrath</title>
-      <link>http://example.org/games/joes-wrath/</link>
+      <link>https://dandydinostudio.github.io/games/joes-wrath/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/games/joes-wrath/</guid>
+      <guid>https://dandydinostudio.github.io/games/joes-wrath/</guid>
       <description>After being mistakenly kidnapped by the Russian mob, Joe swears vengeance on those who had wronged him. It&#39;s up to you to help Joe fight through hordes of enemies on a killing spree he never thought he&#39;d be part of (the main part).</description>
     </item><item>
       <title>Black And White Dimensions</title>
-      <link>http://example.org/games/black-and-white-dimensions/</link>
+      <link>https://dandydinostudio.github.io/games/black-and-white-dimensions/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/games/black-and-white-dimensions/</guid>
+      <guid>https://dandydinostudio.github.io/games/black-and-white-dimensions/</guid>
       <description>Black And White Dimensions is a mobile game where your spaceship has been caught in a gravitational anomaly, causing it to travel between the Black and White dimensions!</description>
     </item>
   </channel>
