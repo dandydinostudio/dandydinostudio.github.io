@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android - Dandy Dino Studio</title>
+    <link>http://example.org/categories/android/</link>
+    <description>Recent content in Android on Dandy Dino Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Black And White Dimensions</title>
+      <link>http://example.org/games/black-and-white-dimensions/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/games/black-and-white-dimensions/</guid>
+      <description>Black And White Dimensions is a mobile game where your spaceship has been caught in a gravitational anomaly, causing it to travel between the Black and White dimensions!</description>
+    </item>
+  </channel>
+</rss>
